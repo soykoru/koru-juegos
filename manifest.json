@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "games": [
     {
       "id": "huerto",
@@ -18,6 +18,24 @@
         "exe": "EL_HUERTO/EL_HUERTO.exe"
       },
       "cover": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.1.0/huerto-logo.png",
+      "minKoruLive": "1.20.0"
+    },
+    {
+      "id": "castillos",
+      "name": "Guerra de Castillos",
+      "version": "0.1.0",
+      "description": "Rojo contra Azul: el chat se une a un bando y manda tropas, dinosaurios, meteoros y rayos para derribar el castillo rival. 32 acciones, apariciones épicas, podio MVP.",
+      "koruLink": {
+        "id": "castillos",
+        "port": 47813
+      },
+      "windows": {
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.0/CASTILLOS-0.1.0-windows.zip",
+        "sha256": "21b6086b9d72198f62fd0b675067ed150cfd9d84d2c97c9c03eb1be2e1c64467",
+        "size": 43952376,
+        "exe": "CASTILLOS/CASTILLOS.exe"
+      },
+      "cover": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.0/castillos-logo.png",
       "minKoruLive": "1.20.0"
     }
   ]
