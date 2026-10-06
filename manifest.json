@@ -36,7 +36,13 @@
         "exe": "CASTILLOS/CASTILLOS.exe"
       },
       "cover": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.0/castillos-logo.png",
-      "minKoruLive": "1.20.0"
+      "minKoruLive": "1.20.0",
+      "icons": {
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.0/castillos-iconos.zip",
+        "sha256": "f2ac48aafb5d63514adbfd7c16a8a16b8fcade7db427e6d9e0355bfb21e32c35",
+        "size": 8055977,
+        "note": "iconos/<id de accion>.png 512 px sin fondo (+ extra.* para UI), logo.png, portada.png 16:9"
+      }
     }
   ]
 }
