@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "updated": "2026-10-05",
+  "games": [
+    {
+      "id": "huerto",
+      "name": "El Huerto",
+      "version": "0.1.0",
+      "description": "Llena el huerto mientras el chat manda animales, tornados y estampidas. 12 acciones, 4 cinemáticas.",
+      "koruLink": {
+        "id": "huerto",
+        "port": 47812
+      },
+      "windows": {
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.1.0/EL_HUERTO-0.1.0-windows.zip",
+        "sha256": "7f0d7f89d743a475364ef79fe2b7d4ea71fac0e8000bda586d9c9ec7597ea82a",
+        "size": 133378801,
+        "exe": "EL_HUERTO/EL_HUERTO.exe"
+      },
+      "cover": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.1.0/logo.png",
+      "minKoruLive": "1.20.0"
+    }
+  ]
+}
