@@ -5,7 +5,7 @@ Aquí solo están los descargables; KORU Live los instala desde la pestaña de j
 
 | Juego | Versión | Descarga |
 |---|---|---|
-| El Huerto | 0.1.0 | [Releases](https://github.com/soykoru/koru-juegos/releases/tag/huerto-v0.1.0) |
+| El Huerto | 0.2.0 | [Releases](https://github.com/soykoru/koru-juegos/releases/tag/huerto-v0.2.0) |
 | Guerra de Castillos | 0.1.0 | [Releases](https://github.com/soykoru/koru-juegos/releases/tag/castillos-v0.1.0) |
 
 `manifest.json` (lista de juegos, versión, enlace, tamaño y SHA-256):
