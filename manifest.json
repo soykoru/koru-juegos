@@ -21,8 +21,8 @@
       "minKoruLive": "1.20.0",
       "icons": {
         "url": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.2.0/huerto-iconos.zip",
-        "sha256": "58797344762251f35c36eacc490d1f7da237588845ae6e38bdc654e0504bb0e5",
-        "size": 3118825,
+        "sha256": "1d13db4dcfa6386534de054fa485048b3c239e59b1aa380338454f4d0ff3bfad",
+        "size": 4438712,
         "note": "iconos/<id de accion>.png 512 px sin fondo (+ extra.* para UI), logo.png"
       }
     },
