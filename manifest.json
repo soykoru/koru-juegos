@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-06",
+  "updated": "2026-10-08",
   "games": [
     {
       "id": "huerto",
@@ -48,6 +48,30 @@
         "sha256": "f2ac48aafb5d63514adbfd7c16a8a16b8fcade7db427e6d9e0355bfb21e32c35",
         "size": 8055977,
         "note": "iconos/<id de accion>.png 512 px sin fondo (+ extra.* para UI), logo.png, portada.png 16:9"
+      }
+    },
+    {
+      "id": "arena",
+      "name": "KORU Arena",
+      "version": "1.1.0",
+      "description": "Batalla de bolitas: cada espectador es una bolita que crece con likes y regalos y lanza 46 poderes; partidas por tiempo con podio y wins. Compra web de poderes para la bolita que elijas.",
+      "koruLink": {
+        "id": "arena",
+        "port": 47817
+      },
+      "windows": {
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/arena-v1.1.0/KORU_ARENA-1.1.0-windows.zip",
+        "sha256": "8263416d6295d3309bff7d12f45ce6b8a655173eaa49da587c3b41cdbce51d75",
+        "size": 139143984,
+        "exe": "KORU_ARENA/KORU_ARENA.exe"
+      },
+      "cover": "https://github.com/soykoru/koru-juegos/releases/download/arena-v1.1.0/arena-logo.png",
+      "minKoruLive": "1.20.7",
+      "icons": {
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/arena-v1.1.0/arena-iconos.zip",
+        "sha256": "a5af78de58646c17ee619bf8b94976cad428484b143989cb052bfe4bdb24697f",
+        "size": 1462944,
+        "note": "iconos/<id de accion>.png 256 px (paleta con alfa), logo.png 1024, portada.png 16:9"
       }
     }
   ]
