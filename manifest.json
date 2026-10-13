@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "games": [
     {
       "id": "huerto",
@@ -77,22 +77,22 @@
     {
       "id": "rompemuros",
       "name": "Rompemuros",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "description": "Tú mueves la plataforma y el chat ayuda o sabotea: 40 poderes (20 buenos, 20 malos), 5 mapas, arena hasta tamaño gigante, bolas con la foto de quien regala y WINS con meta.",
       "koruLink": {
         "id": "rompemuros",
         "port": 47827
       },
       "windows": {
-        "url": "https://github.com/soykoru/koru-juegos/releases/download/rompemuros-v0.1.2/ROMPEMUROS-0.1.2-windows.zip",
-        "sha256": "badcc378e41160192b0e3c7e6d99f51a5b4d53876742fc81c5aa3f4b9e2fb895",
-        "size": 38839162,
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/rompemuros-v0.1.3/ROMPEMUROS-0.1.3-windows.zip",
+        "sha256": "d414b1b4c051abf58301294b13b7c4358993ee8691085770c9cfbff7efcbf7e1",
+        "size": 38842635,
         "exe": "ROMPEMUROS/ROMPEMUROS.exe"
       },
-      "cover": "https://github.com/soykoru/koru-juegos/releases/download/rompemuros-v0.1.2/rompemuros-logo.png",
+      "cover": "https://github.com/soykoru/koru-juegos/releases/download/rompemuros-v0.1.3/rompemuros-logo.png",
       "minKoruLive": "1.20.0",
       "icons": {
-        "url": "https://github.com/soykoru/koru-juegos/releases/download/rompemuros-v0.1.2/rompemuros-iconos.zip",
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/rompemuros-v0.1.3/rompemuros-iconos.zip",
         "sha256": "87f893e45af048ab5cf00d0cbb6365e4e3358afd7eea4f58a49114d3f8658e0c",
         "size": 6983231,
         "note": "iconos/event.<id>.png 512 px sin fondo (+ extra.* para UI), logo.png 1024, portada.png 16:9"
