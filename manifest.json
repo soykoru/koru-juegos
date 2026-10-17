@@ -5,22 +5,22 @@
     {
       "id": "huerto",
       "name": "El Huerto",
-      "version": "0.2.0",
-      "description": "Llena el huerto mientras el chat manda animales, tornados y estampidas. 18 acciones, 4 cinemáticas, nombres con foto.",
+      "version": "0.3.0",
+      "description": "Llena el huerto mientras el chat manda animales, tornados y estampidas. 18 acciones, 4 cinemáticas, nombres con foto, pausa y meta de wins.",
       "koruLink": {
         "id": "huerto",
         "port": 47812
       },
       "windows": {
-        "url": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.2.0/EL_HUERTO-0.2.0-windows.zip",
-        "sha256": "129862c22cb37e54386f5d971ab0c33d3399565626d9343e236a3520b60ee44c",
-        "size": 133261567,
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.3.0/EL_HUERTO-0.3.0-windows.zip",
+        "sha256": "76619114a4b414b6f80db5fa6b5c19a3c67f420a50a7e6192c134c8c5230bc79",
+        "size": 133515986,
         "exe": "EL_HUERTO/EL_HUERTO.exe"
       },
-      "cover": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.2.0/huerto-logo.png",
+      "cover": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.3.0/huerto-logo.png",
       "minKoruLive": "1.20.0",
       "icons": {
-        "url": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.2.0/huerto-iconos.zip",
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/huerto-v0.3.0/huerto-iconos.zip",
         "sha256": "1d13db4dcfa6386534de054fa485048b3c239e59b1aa380338454f4d0ff3bfad",
         "size": 4438712,
         "note": "iconos/<id de accion>.png 512 px sin fondo (+ extra.* para UI), logo.png"
