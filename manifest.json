@@ -29,16 +29,16 @@
     {
       "id": "castillos",
       "name": "Guerra de Castillos",
-      "version": "0.1.0",
-      "description": "Rojo contra Azul: el chat se une a un bando y manda tropas, dinosaurios, meteoros y rayos para derribar el castillo rival. 32 acciones, apariciones épicas, podio MVP.",
+      "version": "0.1.1",
+      "description": "Rojo contra Azul: el chat se une a un bando y manda tropas, dinosaurios, meteoros y rayos para derribar el castillo rival. 32 acciones, apariciones épicas, podio MVP. Pausa (P/Esc) y cartel opcional de victorias.",
       "koruLink": {
         "id": "castillos",
         "port": 47813
       },
       "windows": {
-        "url": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.0/CASTILLOS-0.1.0-windows.zip",
-        "sha256": "21b6086b9d72198f62fd0b675067ed150cfd9d84d2c97c9c03eb1be2e1c64467",
-        "size": 43952376,
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.1/CASTILLOS-0.1.1-windows.zip",
+        "sha256": "158f6e9db0081f44d754439be97fc131ece6c5b2fb927228f9cc170f9ffa5ea2",
+        "size": 43773348,
         "exe": "CASTILLOS/CASTILLOS.exe"
       },
       "cover": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.0/castillos-logo.png",
