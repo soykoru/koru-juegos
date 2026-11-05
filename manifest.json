@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-13",
+  "updated": "2026-11-05",
   "games": [
     {
       "id": "huerto",
@@ -29,24 +29,24 @@
     {
       "id": "castillos",
       "name": "Guerra de Castillos",
-      "version": "0.1.1",
-      "description": "Rojo contra Azul: el chat se une a un bando y manda tropas, dinosaurios, meteoros y rayos para derribar el castillo rival. 32 acciones, apariciones épicas, podio MVP. Pausa (P/Esc) y cartel opcional de victorias.",
+      "version": "0.1.2",
+      "description": "Rojo contra Azul: el chat elige bando escribiendo rojo o azul, sus likes sacan soldados que pelean en el campo antes de asaltar el castillo rival, y los regalos mandan tropas con su nombre y foto, dinosaurios, meteoros y rayos. 33 acciones, apariciones épicas, podio MVP, pausa (P/Esc).",
       "koruLink": {
         "id": "castillos",
         "port": 47813
       },
       "windows": {
-        "url": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.1/CASTILLOS-0.1.1-windows.zip",
-        "sha256": "158f6e9db0081f44d754439be97fc131ece6c5b2fb927228f9cc170f9ffa5ea2",
-        "size": 43773348,
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.2/CASTILLOS-0.1.2-windows.zip",
+        "sha256": "afa6691f4e061cbd53f15067634ec24326493fc5fe666828bd25c397c491a500",
+        "size": 43969620,
         "exe": "CASTILLOS/CASTILLOS.exe"
       },
       "cover": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.0/castillos-logo.png",
       "minKoruLive": "1.20.0",
       "icons": {
-        "url": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.0/castillos-iconos.zip",
-        "sha256": "f2ac48aafb5d63514adbfd7c16a8a16b8fcade7db427e6d9e0355bfb21e32c35",
-        "size": 8055977,
+        "url": "https://github.com/soykoru/koru-juegos/releases/download/castillos-v0.1.2/castillos-iconos.zip",
+        "sha256": "6796a672dcda010b13dfdbc60dfe74749348563f89a496209ed434350b50d55c",
+        "size": 8175511,
         "note": "iconos/<id de accion>.png 512 px sin fondo (+ extra.* para UI), logo.png, portada.png 16:9"
       }
     },
